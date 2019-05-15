@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-WEBSITE_NAME = mehmetgungoren.com.tr
+WEBSITE_NAME=mehmetgungoren.com.tr
 
-cp -R . /var/www/${WEBSITE_NAME}/
+cp -R . /var/www/$WEBSITE_NAME/
